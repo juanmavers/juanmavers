@@ -7,7 +7,7 @@
 - 💡 I’m currently learning Typescript and Bootstrap  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to technologies  
   
 
 - 😻 Living happily with my 2 cats  
