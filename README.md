@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to technologies  
   
 
-- 😻 Living happily with my 2 cats  
+- 😻 Happily living with my 2 cats  
   
 
 <br/>  
