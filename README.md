@@ -1,4 +1,4 @@
-### <span><div align="center"><h1>I'm Juan, software developer. Working remotely since 2020 🚀</h1></div>  
+### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
 - 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)  
