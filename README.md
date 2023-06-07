@@ -4,14 +4,14 @@
 - 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)
   
 
-<h4>- 💡 I’m currently learning Typescript and Bootstrap  </h4>
+- 💡 I’m currently learning Typescript and Bootstrap  
   
 
-<h4>- ❓ Ask me about anything related to technologies  </h4>
+- ❓ Ask me about anything related to technologies  
   
 
-<h4>- 😻 Happily living with my 2 cats  </h4>
-  
+- 😻 Happily living with my 2 cats  
+ 
 
 <br/>  
 
