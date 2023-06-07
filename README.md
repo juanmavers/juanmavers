@@ -1,16 +1,16 @@
 ### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
-- 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)  
+<h4>- 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)  </h4>
   
 
-- 💡 I’m currently learning Typescript and Bootstrap  
+<h4>- 💡 I’m currently learning Typescript and Bootstrap  </h4>
   
 
-- ❓ Ask me about anything related to technologies  
+<h4>- ❓ Ask me about anything related to technologies  </h4>
   
 
-- 😻 Happily living with my 2 cats  
+<h4>- 😻 Happily living with my 2 cats  </h4>
   
 
 <br/>  
