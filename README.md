@@ -4,7 +4,7 @@
 - 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)
   
 
-- 💡 I’m currently learning Typescript and Bootstrap  
+- 💡 I’m currently learning Typescript and Bootstrap
   
 
 - ❓ Ask me about anything related to technologies  
