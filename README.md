@@ -1,7 +1,7 @@
-### <span><div align="center"><h2>I'm Juan, software developer.</h2></div>  
+### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
-- 🌱 See our last project: [Vegan World](https://vegan-world-deploy.vercel.app)
+- 🌱 See our finished project: [Vegan World](https://vegan-world-deploy.vercel.app)
   
 
 - 💡 I’m currently working on [Informental Project](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
