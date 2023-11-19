@@ -1,7 +1,7 @@
 ### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
-- 🧠 See our finished project: [Informental](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
+- 🧠 See my last project: [Informental](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
   
 
 - 🧘‍♀️ Working at [StretchMed](https://stretchmedstudios.com), as Web Developer and IT support.
