@@ -1,13 +1,13 @@
 ### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
-- 🌱 See our finished project: [Vegan World](https://vegan-world-deploy.vercel.app)
+- 🌱 See our finished project: [Informental](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
   
 
-- 💡 I’m currently working on [Informental Project](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
+- 💡 Currently working at [StretchMed]([https://web.informental.com.ar/](https://stretchmedstudios.com)) as Web Developer and IT support.
   
 
-- 😻 Happily living with my 2 cats  
+- 😻 Happily living with my 2 cats! 
  
 
 <br/>  
@@ -36,7 +36,9 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>
+<a href="https://wordpress.com/es/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="WordPress" height="50" /></a> 
+  
 </div>
 
 </td><td valign="top" width="33%">
