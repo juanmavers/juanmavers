@@ -4,7 +4,7 @@
 - 🧠 See our last project: [Informental](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
   
 
-- 🧘‍♀️ Working at [StretchMed](https://stretchmedstudios.com), as Web Developer and IT support.
+- 🧘‍♀️ Currently working for [StretchMed Studios](https://stretchmedstudios.com), [Everest Franchise Development](https://everestfranchisedevelopment.com) and [Get In Shape For Women](https://www.getinshapeforwomen.com) as Web Developer and IT support.
   
 
 - 😻 Happily living with my 2 cats! 
