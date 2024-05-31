@@ -1,7 +1,7 @@
 ### <span><div align="center"><h2>I'm Juan, software developer. Working remotely since 2020 🚀</h2></div>  
 </span>
 
-- 🧠 See our last project: [Informental](https://web.informental.com.ar/), using Typescript, Next.js and Nest.
+- 🧠 See our last project: [Informental](https://informental.com.ar/), using Typescript, Next.js and Nest.
   
 
 - 🧘‍♀️ Currently working for [StretchMed Studios](https://stretchmedstudios.com), [Everest Franchise Development](https://everestfranchisedevelopment.com) and [Get In Shape For Women](https://www.getinshapeforwomen.com) as Web Developer and IT support.
